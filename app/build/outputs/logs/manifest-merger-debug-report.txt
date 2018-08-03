@@ -1,0 +1,151 @@
+-- Merging decision tree log ---
+manifest
+ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-beta01.aar\c0d44871b3376f688e6c881159df4477\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ecd2f144d59c89a3f4a6f3fc06707432\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-beta01.aar\8fdf089a6b94c9273646f044c49b7702\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-beta01.aar\b3101ff0acec877c497a5f5985e3c711\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-beta01.aar\dfd73b4e5bb028cb32d6f38f508d99e3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-beta01.aar\adffa48ad97feb022e2481b6743331f6\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-beta01.aar\cdcb3f2d9e8ab7b0baa2aafc1b71187b\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-beta01.aar\541dcb7613e684659c6a8440c183741a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-beta01.aar\7dc9b58bfcf286baa4fa816fd3498e12\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-beta01.aar\8e0a96f5143b1fc91ed51c2b6fb82e90\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-beta01.aar\f679335d8319619fdfb2ba04a2d31fb5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-beta01.aar\cde5665d2eb14ad310b4ecea058f6093\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-beta01.aar\a42fbfbf8fb3d8a9755d0087648e0ad7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-beta01.aar\3ce3eb713028e3d2c6b09549823504f8\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-beta01.aar\fab130db03714e6f8dd141842e59e1ca\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\4a8eeb09d5590bd17df76c6368c4ee6c\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-beta01.aar\ed3b164d5cedbd034ef4353dda2c444f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9cc4e8698afce61fdb525ccc59b47c5d\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\26f9b3175027571f38c154dd787c3153\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:documentfile:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-beta01.aar\9386fbe277705e8a8837b7988511cd46\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-beta01.aar\6bc158fc312511dc67f39f13cf06064f\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\print-28.0.0-beta01.aar\38338405bf2e0bee9e797c30fd0e1dc2\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b17e2ec693f6885ac8a0248b3d41016\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\43b1ad0dec24312ba08ac20ff096c614\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b0c242f6003c61104c80192aed9cd9b5\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-beta01.aar\00321443976053950981e7b579d6ed1a\AndroidManifest.xml:17:1-22:12
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+	package
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:3:5-41
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:1-21:12
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:2:11-69
+application
+ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:5:5-19:19
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ecd2f144d59c89a3f4a6f3fc06707432\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ecd2f144d59c89a3f4a6f3fc06707432\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\4a8eeb09d5590bd17df76c6368c4ee6c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\4a8eeb09d5590bd17df76c6368c4ee6c\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\26f9b3175027571f38c154dd787c3153\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\26f9b3175027571f38c154dd787c3153\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\4a8eeb09d5590bd17df76c6368c4ee6c\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:10:9-35
+	android:label
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:8:9-41
+	android:roundIcon
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:9:9-54
+	android:icon
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:7:9-43
+	android:allowBackup
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:6:9-35
+	android:theme
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.edu.ness.notifications.MainActivity
+ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:12:9-18:20
+	android:name
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:12:19-47
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:13:13-17:29
+action#android.intent.action.MAIN
+ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:14:17-69
+	android:name
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:14:25-66
+category#android.intent.category.LAUNCHER
+ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:16:17-77
+	android:name
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml:16:27-74
+uses-sdk
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-beta01.aar\c0d44871b3376f688e6c881159df4477\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\appcompat-v7-28.0.0-beta01.aar\c0d44871b3376f688e6c881159df4477\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ecd2f144d59c89a3f4a6f3fc06707432\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.2] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\constraint-layout-1.1.2.aar\ecd2f144d59c89a3f4a6f3fc06707432\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-beta01.aar\8fdf089a6b94c9273646f044c49b7702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-fragment-28.0.0-beta01.aar\8fdf089a6b94c9273646f044c49b7702\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-beta01.aar\b3101ff0acec877c497a5f5985e3c711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-28.0.0-beta01.aar\b3101ff0acec877c497a5f5985e3c711\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-beta01.aar\dfd73b4e5bb028cb32d6f38f508d99e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-core-ui-28.0.0-beta01.aar\dfd73b4e5bb028cb32d6f38f508d99e3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-beta01.aar\adffa48ad97feb022e2481b6743331f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-core-utils-28.0.0-beta01.aar\adffa48ad97feb022e2481b6743331f6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-beta01.aar\cdcb3f2d9e8ab7b0baa2aafc1b71187b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-28.0.0-beta01.aar\cdcb3f2d9e8ab7b0baa2aafc1b71187b\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-beta01.aar\541dcb7613e684659c6a8440c183741a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\loader-28.0.0-beta01.aar\541dcb7613e684659c6a8440c183741a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-beta01.aar\7dc9b58bfcf286baa4fa816fd3498e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\viewpager-28.0.0-beta01.aar\7dc9b58bfcf286baa4fa816fd3498e12\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-beta01.aar\8e0a96f5143b1fc91ed51c2b6fb82e90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\coordinatorlayout-28.0.0-beta01.aar\8e0a96f5143b1fc91ed51c2b6fb82e90\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-beta01.aar\f679335d8319619fdfb2ba04a2d31fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\drawerlayout-28.0.0-beta01.aar\f679335d8319619fdfb2ba04a2d31fb5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-beta01.aar\cde5665d2eb14ad310b4ecea058f6093\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\slidingpanelayout-28.0.0-beta01.aar\cde5665d2eb14ad310b4ecea058f6093\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-beta01.aar\a42fbfbf8fb3d8a9755d0087648e0ad7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\customview-28.0.0-beta01.aar\a42fbfbf8fb3d8a9755d0087648e0ad7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-beta01.aar\3ce3eb713028e3d2c6b09549823504f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\swiperefreshlayout-28.0.0-beta01.aar\3ce3eb713028e3d2c6b09549823504f8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-beta01.aar\fab130db03714e6f8dd141842e59e1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\asynclayoutinflater-28.0.0-beta01.aar\fab130db03714e6f8dd141842e59e1ca\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\4a8eeb09d5590bd17df76c6368c4ee6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\support-compat-28.0.0-beta01.aar\4a8eeb09d5590bd17df76c6368c4ee6c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-beta01.aar\ed3b164d5cedbd034ef4353dda2c444f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\cursoradapter-28.0.0-beta01.aar\ed3b164d5cedbd034ef4353dda2c444f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9cc4e8698afce61fdb525ccc59b47c5d\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\9cc4e8698afce61fdb525ccc59b47c5d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\26f9b3175027571f38c154dd787c3153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\versionedparcelable-28.0.0-beta01.aar\26f9b3175027571f38c154dd787c3153\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-beta01.aar\9386fbe277705e8a8837b7988511cd46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\documentfile-28.0.0-beta01.aar\9386fbe277705e8a8837b7988511cd46\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-beta01.aar\6bc158fc312511dc67f39f13cf06064f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\localbroadcastmanager-28.0.0-beta01.aar\6bc158fc312511dc67f39f13cf06064f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\print-28.0.0-beta01.aar\38338405bf2e0bee9e797c30fd0e1dc2\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\print-28.0.0-beta01.aar\38338405bf2e0bee9e797c30fd0e1dc2\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b17e2ec693f6885ac8a0248b3d41016\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\viewmodel-1.1.1.aar\4b17e2ec693f6885ac8a0248b3d41016\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\43b1ad0dec24312ba08ac20ff096c614\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\43b1ad0dec24312ba08ac20ff096c614\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b0c242f6003c61104c80192aed9cd9b5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\b0c242f6003c61104c80192aed9cd9b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-beta01.aar\00321443976053950981e7b579d6ed1a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0-beta01] C:\Users\davsh\.gradle\caches\transforms-1\files-1.1\interpolator-28.0.0-beta01.aar\00321443976053950981e7b579d6ed1a\AndroidManifest.xml:20:5-44
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		ADDED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml
+		INJECTED from D:\Dropbox\android\Notifications\app\src\main\AndroidManifest.xml

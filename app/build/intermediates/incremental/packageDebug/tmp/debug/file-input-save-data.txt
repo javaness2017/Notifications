@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Fri Aug 03 15:15:08 IDT 2018
+0.baseType=DIRECTORY
+0.base=D\:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+0.path=classes.dex
+0.set=DEX
+count=1

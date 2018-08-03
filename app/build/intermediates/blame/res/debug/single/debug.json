@@ -1,0 +1,2334 @@
+[
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cu.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cu.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bi.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bi.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_cascading_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_cascading_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ml.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ml.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-hdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pe.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pe.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_close_item_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tj.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tj.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cf.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cf.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_al.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\al.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ni.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ni.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-hdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_list_divider_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-v21\\abc_list_divider_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_icon_group.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\layout-v21\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_it.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\it.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v21_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v21\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ch.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ch.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_seekbar_tick_mark_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_radio.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sk.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sk.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_list_selector_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_hint_foreground_material_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg_low.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable\\notification_bg_low.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_de.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\de.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_top.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_primary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_th.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\th.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-hdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_enter.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_tooltip_enter.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ma.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ma.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ng.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ng.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_tile_bg.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable\\notification_tile_bg.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-mdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_chronometer.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_switch_thumb_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_switch_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_holo_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_list_selector_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sb.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sb.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cy.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cy.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_fr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\fr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_be.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\be.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cd.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cd.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_au.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\au.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_textfield_search_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_textfield_search_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_background_cache_hint_selector_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_color_highlight_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_color_highlight_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_nz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\nz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lb.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lb.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_tooltip.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_tooltip.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-xhdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_br.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\br.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-hdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_btn_colored_borderless_text_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_btn_colored_borderless_text_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ie.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ie.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_edit_text_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-v21\\abc_edit_text_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ls.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ls.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_td.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\td.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kp.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_jm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\jm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ab_share_pack_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ug.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ug.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_co.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\co.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_vu.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\vu.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_vector_test.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_vector_test.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-mdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pt.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pt.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_clear_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_clear_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ke.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ke.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\switch_thumb_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v23_abc_control_background_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-v23\\abc_control_background_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_notification_action_background.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-v21\\notification_action_background.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout-watch-v20\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ua.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ua.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ad.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ad.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gd.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gd.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_divider_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_dz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\dz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ae.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ae.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_pressed.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-xhdpi-v4\\notification_bg_low_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ru.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ru.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mt.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mt.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ar.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ar.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\layout-v21\\notification_action.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_hr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\hr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_dm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\dm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_radio_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_btn_radio_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_na.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\na.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mu.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mu.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-v26_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout-v26\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_top.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_om.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\om.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_hn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\hn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_za.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\za.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_arrow_drop_right_black_24dp.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_arrow_drop_right_black_24dp.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_list_selector_background_transition_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bs.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bs.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_eh.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\eh.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_view.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_se.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\se.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_internal_bg.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_cab_background_internal_bg.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_simple_overlay_action_mode.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_icon_background.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable\\notification_icon_background.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_vn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\vn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_cab_background_top_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_cab_background_top_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ga.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ga.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ir.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ir.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_km.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\km.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_fj.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\fj.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ag.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ag.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bt.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bt.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_support_simple_spinner_dropdown_item.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gb.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gb.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_es.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\es.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sc.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sc.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_nl.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\nl.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_fi.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\fi.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_toolbar.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_search_api_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_voice_search_api_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_voice_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-hdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-hdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_zm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\zm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_cab_background_top_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_eg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\eg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_item_background_holo_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_selector_disabled_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ca.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ca.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_va.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\va.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-watch-v20_abc_alert_dialog_button_bar_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout-watch-v20\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sd.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sd.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_rw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\rw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-mdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_is.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\is.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mh.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mh.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_multichoice_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_background_cache_hint_selector_material_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_background_cache_hint_selector_material_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_er.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\er.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_so.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\so.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_af.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\af.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_title_item.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cl.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cl.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_select_dialog_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ro.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ro.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_az.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\az.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_primary_text_disable_only_material_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-mdpi-v4\\notification_bg_normal_pressed.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-hdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-mdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-mdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bh.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bh.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_fm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\fm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ve.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ve.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gy.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gy.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_small_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ratingbar_small_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ec.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ec.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_list_selector_background_transition_holo_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_list_selector_background_transition_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-mdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_screen_content_include.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_borderless_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_btn_borderless_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_material_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_primary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_am.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\am.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_menu_overflow_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_menu_overflow_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_by.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\by.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_title_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_template_custom_big.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\layout-v21\\notification_template_custom_big.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sy.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sy.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\tooltip_frame_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_primary_text_disable_only_material_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_primary_text_disable_only_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_btn_colored_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-v21\\abc_btn_colored_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_spinner.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_tint_spinner.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bj.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bj.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_mode_bar.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_zw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\zw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_vc.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\vc.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_uy.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\uy.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tv.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tv.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cv.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cv.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_la.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\la.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mx.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mx.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_notification_template_part_time.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_btn_colored_text_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_btn_colored_text_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_secondary_text_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_shrink_fade_out_from_bottom.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_switch_track.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_tint_switch_track.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_us.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\us.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_et.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\et.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ao.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ao.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ee.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ee.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_default.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_tint_default.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_in_bottom.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_go_search_api_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_go_search_api_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_popup_background_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_thumb_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_seekbar_thumb_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_iq.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\iq.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_icon.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_secondary_text_material_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_secondary_text_material_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tt.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tt.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_half_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_id.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\id.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ic_ab_back_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ic_ab_back_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lc.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lc.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ph.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ph.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_half_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_qa.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\qa.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-v21\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_at.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\at.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_slide_out_bottom.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_middle_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_text_select_handle_middle_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_seek_thumb.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_tint_seek_thumb.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ws.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ws.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_normal.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-xhdpi-v4\\notification_bg_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_item_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_in.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_switch_thumb_material_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\switch_thumb_material_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mv.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mv.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_pressed_holo_dark.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sa.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sa.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bf.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bf.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sl.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sl.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_to.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\to.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_ic_launcher_background.xml.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\drawable\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ci.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ci.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_to_pressed_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_btn_radio_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mk.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mk.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ly.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ly.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_me.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\me.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-watch-v20_abc_dialog_material_background.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-watch-v20\\abc_dialog_material_background.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_st.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\st.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_enter.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bb.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bb.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_popup_exit.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lv.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lv.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_in.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\in.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_spinner_textfield_background_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_spinner_textfield_background_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_middle_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_text_select_handle_middle_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_dk.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\dk.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_item_background_holo_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_item_background_holo_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pl.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pl.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_search_dropdown_item_icons_2line.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_selector_disabled_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notification_bg.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable\\notification_bg.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_default_mtrl_shape.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_text_cursor_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-xhdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ba.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ba.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_000.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_np.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\np.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_black_48dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_star_black_48dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ge.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ge.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pk.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pk.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_star_black_16dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_star_black_16dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_dj.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\dj.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_do1.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\do1.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lt.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lt.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-hdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_tint_edittext.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_tint_edittext.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xxhdpi-v17\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_py.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\py.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_left_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_text_select_handle_left_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_li.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\li.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_share_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_bar_up_container.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_il.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\il.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_grow_fade_in_from_bottom.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_no.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\no.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_notification_bg_low_normal.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-mdpi-v4\\notification_bg_low_normal.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_md.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\md.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_nr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\nr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lu.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lu.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_hint_foreground_material_dark.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_hint_foreground_material_dark.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ki.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ki.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_cut_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_expanded_menu_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gt.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gt.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_rs.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\rs.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_menu_paste_mtrl_am_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_sv.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\sv.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_indicator_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ratingbar_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_text_select_handle_left_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_text_select_handle_left_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_notify_panel_notification_icon_bg.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\drawable-xhdpi-v4\\notify_panel_notification_icon_bg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldrtl-xxxhdpi-v17_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-ldrtl-xxxhdpi-v17\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gq.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gq.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ht.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ht.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_tab_indicator_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_tab_indicator_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color-v23_abc_tint_btn_checkable.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color-v23\\abc_tint_btn_checkable.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_longpressed_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_uz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\uz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_text_select_handle_right_mtrl_light.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_text_select_handle_right_mtrl_light.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_si.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\si.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_gh.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\gh.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_fade_out.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout-v21_notification_action_tombstone.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\support-compat-28.0.0-beta01.aar\\4a8eeb09d5590bd17df76c6368c4ee6c\\res\\layout-v21\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_lk.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\lk.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_list_menu_item_checkbox.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_jo.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\jo.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_focused_holo.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_ic_star_half_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_ic_star_half_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v21_abc_action_bar_item_background_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-v21\\abc_action_bar_item_background_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_cr.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\cr.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_textfield_search_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tm.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tm.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_menu_hardkey_panel_mtrl_mult.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_hu.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\hu.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kg.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kg.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_select_dialog_singlechoice_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_activity_chooser_view_list_item.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ne.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ne.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bd.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bd.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_popup_menu_header_item_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_commit_search_api_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_pa.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\pa.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_seekbar_track_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_seekbar_track_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mn.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mn.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_text_select_handle_right_mtrl_dark.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_text_select_handle_right_mtrl_dark.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tl.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tl.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_tw.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\tw.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_ratingbar_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_ratingbar_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_mc.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\mc.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_alert_dialog_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_kh.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\kh.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_my.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\my.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_activated_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_tab_indicator_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_textfield_search_default_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_ic_star_black_36dp.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_ic_star_black_36dp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_check_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bo.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bo.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_bz.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\bz.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ye.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ye.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_ic_menu_selectall_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-mdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_scrubber_control_to_pressed_mtrl_005.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\layout_abc_action_menu_layout.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4_abc_btn_radio_to_on_mtrl_015.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxxhdpi-v4\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_abc_btn_check_material.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\abc_btn_check_material.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_switch_track_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_spinner_mtrl_am_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4_abc_scrubber_primary_mtrl_alpha.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4_abc_scrubber_control_off_mtrl_alpha.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xhdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\color_abc_search_url_text.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\color\\abc_search_url_text.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_ks.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\ks.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\raw_jp.png.flat",
+        "source": "D:\\Dropbox\\android\\Notifications\\app\\src\\main\\res\\raw\\jp.png"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\anim_abc_tooltip_exit.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\anim\\abc_tooltip_exit.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable_tooltip_frame_light.xml.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable\\tooltip_frame_light.xml"
+    },
+    {
+        "merged": "D:\\Dropbox\\android\\Notifications\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
+        "source": "C:\\Users\\davsh\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-28.0.0-beta01.aar\\c0d44871b3376f688e6c881159df4477\\res\\drawable-xxhdpi-v4\\abc_list_pressed_holo_light.9.png"
+    }
+]
